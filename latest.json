@@ -1,9 +1,9 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "notes": "Accounts, instances, Fabric and Forge, Modrinth search, presence, self-update.",
   "windows": {
-    "url": "https://github.com/vasndalinfinity/zarnkina-launcher-releases/releases/download/v0.1.1/zarnkina-launcher.exe",
-    "sha256": "a341e9207a7d2fc92e6d2291f76cdd0f35e99528ff2fac4587feb6ad35b02748"
+    "url": "https://github.com/vasndalinfinity/zarnkina-launcher-releases/releases/download/v0.1.2/zarnkina-launcher.exe",
+    "sha256": "99cda74110168b4e663e4f358afeab6bad657fa59f6ff3b10340c090b607782d"
   },
   "linux": null
 }
